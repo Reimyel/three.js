@@ -1,0 +1,11 @@
+ESTUDO THREE JS
+
+Alterei o arquivo "svg_sandbox.html". As mudanças feitas foram:
+-ALterada a cor do background;
+-Alterado o tamanho do QR code;
+-Adicionado outro QR code com tamanho alterado;
+-Alterada tamanho, opacidade e transparência dos cubos;
+-Alterado o tamanho X dos quadrados;
+-Alterado o tamanho dos cilindros;
+-Alterada a cor dos circulos;
+-Alterado a imagem do hexagono (através do inkscape);
